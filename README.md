@@ -27,4 +27,4 @@ Built with Python, TensorFlow, and Kivy for a simple and interactive user interf
 
 ---
 
-Created by Leonardo Cofone
+Created by Leonardo Cofone.
