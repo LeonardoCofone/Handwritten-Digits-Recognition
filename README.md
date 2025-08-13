@@ -12,9 +12,9 @@ Built with Python, TensorFlow, and Kivy for a simple and interactive user interf
 ## How to Use
 
 1. **Download the project.**
-2. **Download the trained model (`model.h5`)** from my Kaggle profile:  
+2. **Download the trained model (`mnist_transfer_model.h5`)** from my Kaggle profile:  
    link: https://www.kaggle.com/zlatan599 or in my bio
-3. Place the `model.h5` file inside the `models/` folder in the project directory.
+3. Place the `mnist_transfer_model.h5` file inside the `models/` folder in the project directory.
 4. If you want, choose a different logo immage (`LOGO.png`) and put it inside `assets/`.
 5. Run the Python file (`GUI.py`).
 6. Click "Upload Image" and select a photo of a handwritten digit.
