@@ -12,8 +12,8 @@ Built with Python, TensorFlow, and Kivy for a simple and interactive user interf
 ## How to Use
 
 1. **Download the project.**
-2. **Download the trained model (`mnist_transfer_model.h5`)** from my Kaggle profile:  
-   link: https://www.kaggle.com/zlatan599 or in my bio
+2. **Download the trained model (`mnist_transfer_model.h5`)** from my Kaggle project:  
+   link to my [Kaggle project](https://www.kaggle.com/code/zlatan599/handwritten-digit-recognition).
 3. Place the `mnist_transfer_model.h5` file inside the `models/` folder in the project directory.
 4. If you want, choose a different logo immage (`LOGO.png`) and put it inside `assets/`.
 5. Run the Python file (`GUI.py`).
