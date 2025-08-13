@@ -32,8 +32,7 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 
-MODEL_PATH = resource_path(os.path.join('models', 'model.h5'))
-
+MODEL_PATH = resource_path(os.path.join('models', 'mnist_transfer_model.h5'))
 
 class LoadingScreen(BoxLayout):
     def __init__(self, **kwargs):
@@ -239,3 +238,4 @@ class MNISTApp(App):
 
 if __name__ == "__main__":
     MNISTApp().run()
+
