@@ -28,3 +28,4 @@ Built with Python, TensorFlow, and Kivy for a simple and interactive user interf
 ---
 
 Created entirely by Leonardo Cofone.
+Thank you!!
